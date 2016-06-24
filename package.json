@@ -1,0 +1,17 @@
+{
+  "name": "hris-telegram",
+  "version": "1.0.0",
+  "description": "Telegram Bot for communicating with HRIS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "jswiss",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.1",
+    "telegram-bot-api": "^1.1.0"
+  }
+}
